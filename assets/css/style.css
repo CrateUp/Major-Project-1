@@ -4,6 +4,15 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+/* Header Start */
+
+.header-image {
+    height: auto;
+    object-fit: cover;
+}
+
+/* Header End */
+
 /* Navbar Start */
 
 .navbar-brand-style {
@@ -107,6 +116,13 @@ body {
 
 .portfolio-style:hover {
     transform: scale(1.5);
+}
+
+@media (min-width:768px) {
+  .portfolio-style {
+      width: 200px;
+      height: 200px;
+  }
 }
 
 /* Portfolio End */
