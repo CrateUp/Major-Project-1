@@ -35,6 +35,7 @@ A website built to act as a portfolio and one stop shop for tattoo artists/studi
 </div>
 <br>
 <br>
+
 * <strong>iPad Air Testing:</strong>
 <div class="row">
     <div class="col">

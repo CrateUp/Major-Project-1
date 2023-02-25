@@ -118,8 +118,8 @@ body {
     transform: scale(1.5);
 }
 
-@media (min-width:768px) {
-  .portfolio-style {
+@media (max-width:768px) {
+  .portfolio-style  {
       width: 200px;
       height: 200px;
   }
