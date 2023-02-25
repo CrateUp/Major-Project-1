@@ -2,6 +2,8 @@
 
 A website built to act as a portfolio and one stop shop for tattoo artists/studios to increase their visibility online.
 
+Value added by allowing tattoo artists to showcase their work in a permanent platform that they have control over, versus the vast majority who rely on social media platforms that they have no hosting control over.
+
 ## Built Using:
 <strong>
 <img src="readme/images/HTML.svg" alt="HTML5 Logo" height="50px" width="50px">
