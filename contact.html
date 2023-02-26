@@ -94,8 +94,28 @@
                   <input type="file" class="form-control-file" id="Examples">
                 </div>
                 <div class="contact-button align-times-center">
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Submit</button>
         </div>
+
+        <!-- Modal code provided by https://www.w3schools.com/bootstrap/bootstrap_modal.asp -->
+        <!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+  
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Thanks for your message!</h4>
+        </div>
+        <div class="modal-body text-center">
+          <p>We'll be in touch to help you GetInk'd</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
           </form>
     </div>
 </section>
