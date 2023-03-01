@@ -18,6 +18,10 @@ As the customer, I need to be able to see that there is a clear way to find the 
 
 <br>
 
+## Initial Front Page Design
+<img src="readme/images/wireframe.jpg" alt="Wireframe drawing design" height="17.5%" width="17.5%">
+<p>For the design, I initially decided to break the page up into 3 main sections as well as the nav and footer. Throughout the design process, the site changed but began with the basis of this idea <p> 
+
 ### Future Features:
 
 * Fully Animated Portfolio
